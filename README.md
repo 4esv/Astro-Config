@@ -18,7 +18,7 @@ mv ~/.cache/nvim ~/.cache/nvim.bak
 #### Clone the repository
 
 ```shell
-git clone https://github.com/4esv/Astro-Config.git ~/.config/nvim
+git clone git@github.com:4esv/Astro-Config.git ~/.config/nvim
 ```
 
 #### Start Neovim
